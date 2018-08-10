@@ -7,7 +7,7 @@ Congratulations! You are now able to understand how Javascript interacts with we
 If you ever want to show your friends something cool, open up the console on any web page and then find the selector for an element, then modify it using
 Javascript in the console. Prepare to enjoy the shock and awe of your friends!
 
-## From DOM Manipulation to Programming Logic
+## From DOM anipulation to Programming Logic
 
 For the rest of this material, we will be moving from the basics of DOM manipulation to the meat and potatoes of programming. This means we are going to cover the ideas of conditionals, looping, encapsulation and syntax. I know those may not be familiar to you, but over the next few lessons they will become second nature! Remember when DOM was a scary word? Encapsulation will soon go the way of the DOM. You're going to be encapsulating everything.
 
